@@ -1,0 +1,25 @@
+my-repo : "DataOps Profession Certificate"
+version : 1.0
+is_public : True
+pre_enroll : null
+
+category: 
+ - AWS
+ - Devops
+ - Azure
+
+course_dev : ["murthy","kavya","nirnay"]
+
+dev_details:
+  - name:"meftun"
+    email:"meftun@test.com"
+    role :"planner"
+
+  - name:"oner"
+    email:"sufioglu@test.com"
+    role:"planner"
+  - {name:"",email:"",role:""}
+
+short_description:>
+  This repo just testing repo
+  for dataops
